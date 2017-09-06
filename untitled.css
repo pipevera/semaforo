@@ -1,0 +1,19 @@
+
+body {
+	background: green;
+}
+
+
+
+@media(max-width: 1000px){
+	body{	
+		background: yellow;
+	}
+}
+
+@media(max-width: 500px){
+	body{
+		background: red;
+	}
+}
+
